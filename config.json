@@ -25,10 +25,10 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Kamisato Ayato",
+  "OWNER": "Ayato",
   "AGE": "15",
   "GENDER": "MALE",
-  "nickNameBot": "Shirakami Fubuki",
+  "nickNameBot": "Luna",
   "FACEBOOK": "https://www.facebook.com/100062186575693",
   "prefix": "/",
   "database": {
